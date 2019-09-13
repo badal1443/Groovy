@@ -2,6 +2,8 @@
 
 Groovy scripting used for automation and general purpose.
 
+complete documentation: http://docs.groovy-lang.org/latest/html/documentation/
+
 ### Installed grrovy on ec2 instance using following commands by help of SDKMAN.
 
 ** Commands to install Groovy. **
